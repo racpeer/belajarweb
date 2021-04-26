@@ -1,0 +1,54 @@
+body
+{
+    background-color: white;
+}
+.container
+{
+    width: 80%;
+    background-color:darkkhaki;
+    display: block;
+    margin:auto;    
+}
+
+.judul
+{
+    display: block;
+    background-color: brown;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.judul h4
+{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    color:cornsilk;
+}
+
+.form
+{
+    display: block;
+    background-color: cornsilk;
+    padding: 15px 15px 15px 15px;
+}
+
+.form label
+{
+    font-family: 'Courier New', Courier, monospace;
+    color: brown;
+}
+
+.form input,select,button
+{
+    font-family: 'Courier New', Courier, monospace;
+    color: brown;
+}
+
+table
+{
+    margin: auto;
+}
